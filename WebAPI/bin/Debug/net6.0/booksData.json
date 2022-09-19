@@ -1,0 +1,58 @@
+[
+  {
+    "bookName": "Day Green Smoothie Cleanse",
+    "author": "JJ Smith",
+    "userRating": 4.7,
+    "year": 2016,
+    "genres": "Non Fiction"
+  },
+  {
+    "bookName": "A Novel",
+    "author": "Stephen King",
+    "userRating": 4.6,
+    "year": 2011,
+    "genres": "Fiction"
+  },
+  {
+    "bookName": "Twelve Rules for Life: An Antidote to Chaos",
+    "author": "Jordan B. Peterson",
+    "userRating": 4.7,
+    "year": 2018,
+    "genres": "Non Fiction"
+  },
+  {
+    "bookName": "Awesome Facts (About Everything!) (National Geographic Kids)",
+    "author": "National Geographic Kids",
+    "userRating": 4.8,
+    "year": 2019,
+    "genres": "Non Fiction"
+  },
+  {
+    "bookName": "A Dance with Dragons (A Song of Ice and Fire)",
+    "author": "George R. R. Martin",
+    "userRating": 4.4,
+    "year": 2011,
+    "genres": "Fiction"
+  },
+  {
+    "bookName": "A Game of Thrones / A Clash of Kings / A Storm of Swords / A Feast of Crows / A Dance with Dragons",
+    "author": "George R. R. Martin",
+    "userRating": 4.7,
+    "year": 2014,
+    "genres": "Fiction"
+  },
+  {
+    "bookName": "A Gentleman in Moscow: A Novel",
+    "author": "Amor Towles",
+    "userRating": 4.7,
+    "year": 2017,
+    "genres": "Fiction"
+  },
+  {
+    "bookName": "A Higher Loyalty: Truth, Lies, and Leadership",
+    "author": "James Comey",
+    "userRating": 4.7,
+    "year": 2018,
+    "genres": "Non Fiction"
+  }
+]
